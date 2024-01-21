@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Site Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 10px;
+            background-color: #f2f2f2;
+        }
+
+        main {
+            margin-top: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Mon Association</h1>
+        <p>Un site web pour partager nos activités</p>
+    </header>
+
+    <main>
+        <h2>À propos de nous</h2>
+        <p>Bienvenue sur le site de notre association. Nous sommes dédiés à...</p>
+
+        <h2>Nos Projets</h2>
+        <ul>
+            <li>Projet 1</li>
+            <li>Projet 2</li>
+            <li>Projet 3</li>
+        </ul>
+
+        <h2>Contact</h2>
+        <p>Nous serions ravis d'avoir de vos nouvelles. Contactez-nous à <a href="mailto:contact@monassociation.org">contact@monassociation.org</a>.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Mon Association. Tous droits réservés.</p>
+    </footer>
+
+</body>
+
+</html>
